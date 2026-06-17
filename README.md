@@ -1,6 +1,5 @@
-<a href="#">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2eb67d&height=200&section=header&text=Manohar%20%C2%B7%20theborana&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Payments%20Engineer&descAlignY=58&descSize=18" alt="header" />
-</a>
+<h1 align="center">Hi, I'm Manohar 👋</h1>
+<h3 align="center">Backend & Payments Engineer · Building systems that scale quietly</h3>
 
 <p align="center">
   <a href="https://github.com/theborana">
