@@ -68,4 +68,14 @@
   <a href="https://www.linkedin.com/in/manoharborana/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<p align="center"><em>⚡ Turning coffee into commits.</em></p>
+---
+
+<p align="center">
+  <em>⚡ Turning coffee into commits — literally.</em>
+</p>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/theborana">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee" />
+  </a>
+</p>
