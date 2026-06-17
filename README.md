@@ -39,6 +39,12 @@
 ![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,aws,lambda,dynamodb,docker,kubernetes,postgres,redis,terraform,git,linux,bash,fastapi,kafka,github&theme=dark" alt="Skill icons" />
+  </a>
+</p>
+
 ---
 
 ### 📊 GitHub Stats
@@ -66,6 +72,14 @@
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=theborana&bg_color=0d1117&color=2eb67d&line=2eb67d&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+</p>
+
+---
+
+### 🧊 3D Contribution Calendar
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Calendar" />
 </p>
 
 ---
