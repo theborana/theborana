@@ -76,14 +76,6 @@
 
 ---
 
-### 🧊 3D Contribution Calendar
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Calendar" />
-</p>
-
----
-
 ### 🐍 Contribution Snake
 
 <p align="center">
