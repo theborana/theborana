@@ -1,5 +1,12 @@
-<h1 align="center">Hi, I'm Manohar 👋</h1>
-<h3 align="center">Backend & Payments Engineer · Building systems that scale quietly</h3>
+<a href="#">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2eb67d&height=200&section=header&text=Manohar%20%C2%B7%20theborana&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Payments%20Engineer&descAlignY=58&descSize=18" alt="header" />
+</a>
+
+<p align="center">
+  <a href="https://github.com/theborana">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=2EB67D&center=true&vCenter=true&width=600&lines=Building+systems+that+scale+quietly;Python+%C2%B7+AWS+%C2%B7+Distributed+Systems;Designing+resilient+payment+pipelines;Turning+coffee+into+commits+%E2%9A%A1" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <em>Python · AWS · Distributed Systems · Fintech</em>
