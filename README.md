@@ -12,6 +12,10 @@
   <em>Python · AWS · Distributed Systems · Fintech</em>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=theborana&label=Profile%20Views&color=2eb67d&style=for-the-badge" alt="Profile Views" />
+</p>
+
 ---
 
 ### 🛠️ What I do
