@@ -78,6 +78,22 @@
 
 ---
 
+### 💬 Dev Quote of the Moment
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</p>
+
+---
+
+### 😄 Random Dev Joke
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Dev Joke" />
+</p>
+
+---
+
 ### 💡 A few things I believe
 
 > _"Make it work, make it right, make it fast."_
