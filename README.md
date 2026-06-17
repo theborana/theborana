@@ -54,6 +54,30 @@
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=theborana&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=theborana&bg_color=0d1117&color=2eb67d&line=2eb67d&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/theborana/theborana/output/github-snake-dark.svg" alt="Contribution Snake" />
+</p>
+
+---
+
 ### 💡 A few things I believe
 
 > _"Make it work, make it right, make it fast."_
